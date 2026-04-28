@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpendSmart</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="no_expenses">No expenses found for this period</string>
+    <string name="no_categories">No categories yet. Add one!</string>
+</resources>
